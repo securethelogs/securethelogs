@@ -2,11 +2,7 @@
 
 <img align='center' src="https://media.giphy.com/media/te3dSnXQSZEFW/giphy.gif" width="230">
 
-Find More Content Here: https://medium.com/@xstag0 
-
-<b>Want my help?</b></br>
-Fiverr: https://www.fiverr.com/ash_moran</br>
-UpWork: https://www.upwork.com/freelancers/~010a9acf452767e68d?</br>
+Find More Content Here: https://medium.com/@xstag0 / https://amoran.io
 
   Cloud Security: </br>
       - Azure: https://github.com/securethelogs/Microsoft-Azure </br>
