@@ -8,10 +8,9 @@ Find More Content Here: https://medium.com/@xstag0 / https://amoran.io
       - Azure: https://github.com/securethelogs/Microsoft-Azure </br>
       - AWS: https://github.com/securethelogs/Amazon-Web-Services </br>
       
-     Contact@securethelogs.com
+      Contact@amoran.io
+      
      
-     </br>
-
      
 
 <a href="https://www.buymeacoffee.com/Xstag0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
