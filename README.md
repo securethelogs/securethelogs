@@ -2,7 +2,7 @@
 
 <img align='center' src="https://media.giphy.com/media/te3dSnXQSZEFW/giphy.gif" width="230">
 
-Find More Content Here: https://medium.com/@xstag0 / https://amoran.io
+Find More Content Here: https://blog.amoran.io / https://amoran.io
 
   Cloud Security: </br>
       - Azure: https://github.com/securethelogs/Microsoft-Azure </br>
