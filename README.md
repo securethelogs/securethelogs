@@ -34,10 +34,7 @@ See more at: [LinkedIn Profile](https://www.linkedin.com/in/ashleymoran/)
 
 
 ## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Medium!](https://yourblog.com/ethical-hacking-101](https://medium.com/@Amoranio))
-<!-- BLOG-POST-LIST:END -->
+[Medium Profile](https://medium.com/@Amoranio)
 
 ---
 
