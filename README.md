@@ -10,16 +10,8 @@
 
 Experienced Cyber Security Engineer with a passion for automation. 🔨
 
-#### 🤝 Hire me: [Fiverr](https://www.fiverr.com/amoranios)
+#### 🤝 Hire me: [Upwork](https://www.upwork.com/freelancers/~010a9acf452767e68d)
 
-
-<br>
-
-
-## 🎯 Side Projects
-
-- [Exnoscan](https://exnoscan.com): Gain better visibility! 
-- [IrLinks](https://irlinks.co): Time is of the essence...
 
 <br>
 
@@ -44,5 +36,3 @@ See more at: [LinkedIn Profile](https://www.linkedin.com/in/ashleymoran/)
 <br>
 
 <br>
-
-<a href="https://www.buymeacoffee.com/9wc8yc8t5jn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
